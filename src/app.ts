@@ -30,7 +30,5 @@ app.use(express.urlencoded({ extended: true }));
 
 
 export default app;
-function morgan(dev: any): any {
-  throw new Error("Function not implemented.");
-}
+
 
